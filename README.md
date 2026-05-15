@@ -30,7 +30,7 @@ An end-to-end data analytics project investigating how macroeconomic indicators 
 
 #📊 Dashboard Preview
  
-![Walmart Executive Dashboard Preview](images/PowerBIss.png)
+![Walmart Executive Dashboard Preview](Images/PowerBIss.png)
 
 ---
 

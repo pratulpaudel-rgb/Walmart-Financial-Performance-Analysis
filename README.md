@@ -4,7 +4,7 @@
 An end-to-end data analytics project investigating how macroeconomic indicators (Unemployment, CPI, Fuel Prices) impact Walmart’s weekly store sales across 45 locations. 
 
 # Tech Stack
-* SQL Server (T-SQL): Data extraction, transformation, and creation of standardized Views.
+* MS SQL Server: Data extraction, transformation, and creation of standardized Views.
 * Microsoft Excel: Exploratory Data Analysis (EDA), Correlation Matrices, and Trend Testing.
 * Power BI: Star Schema data modeling, DAX time-intelligence development, and Executive Dashboard design.
 

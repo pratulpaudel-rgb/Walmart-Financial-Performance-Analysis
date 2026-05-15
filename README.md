@@ -35,9 +35,14 @@ An end-to-end data analytics project investigating how macroeconomic indicators 
 ---
 
 ## 💡 Key Business Insights
-1. **The Holiday Boom:** Holiday weeks generate an average 15% increase in revenue, heavily driven by late November (Thanksgiving) and December (Christmas) spikes.
-2. **Economic Resilience:** Despite rising unemployment trends in specific regions, core essential sales remained steady, highlighting Walmart's status as an anti-recessionary retailer.
-3. **Top Performers:** Store 20 and Store 4 out-performed the national weekly average by over 40%.
+
+1.A critical finding during the Exploratory Data Analysis (EDA) phase was the near-total absence of strong linear correlation between Weekly_Sales and external environmental metrics (Fuel Price: -0.01, CPI: -0.30, Unemployment: -0.10).
+
+This lack of statistical correlation strongly implies that Walmart operates as a defensive, recession-resistant retail ecosystem. Rather than being swung by regional economic volatility, revenue is perhaps instead driven by internal operational activities, store-specific geographic factors, and calendar seasonality (Holidays). This insight justified moving the project into Power BI to perform granular, store-level and time-series visualizations rather than relying on macro-forecasting models.
+
+2. It was also uncovered that while holiday weeks have a smaller overall share of the volume of total sales, it has noticeble effect on high weekly sales which was set to sales of over $1.5 million. This tells us that in this specific measure, holiday can be reliable indicator for high volume sales.
+
+
 
 ---
 

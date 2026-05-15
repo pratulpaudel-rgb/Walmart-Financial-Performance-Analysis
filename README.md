@@ -16,6 +16,7 @@ An end-to-end data analytics project investigating how macroeconomic indicators 
 * Standardized messy string date formats (`DD-MM-YYYY`) into standard SQL system `DATE` types.
 * Created an enterprise-ready `Clean_Walmart_Data` view to act as a Single Source of Truth.
 * Developed custom business logic using `CASE WHEN` to segment stores into `High` vs. `Normal` sales tiers.
+* Data Cleaning undertaken for around 6,500 rows of data
 
 # 2. Exploratory Data Analysis (Excel)
 * Conducted a statistical correlation analysis between economic factors and revenue.

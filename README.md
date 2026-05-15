@@ -19,7 +19,8 @@ An end-to-end data analytics project investigating how macroeconomic indicators 
 
 # 2. Exploratory Data Analysis (Excel)
 * Conducted a statistical correlation analysis between economic factors and revenue.
-* **Key Finding:** Discovered a weak negative correlation (-0.02) with Fuel Prices, indicating Walmart's consumer base is highly resilient to gas inflation.
+* **Key Finding:** The exploratory analysis revealed a correlation of -0.0094 between Fuel Price and Weekly Sales. This near-zero value indicates that wild fluctuations in gas prices have practically no direct linear impact on Walmart's revenue.
+* There is a moderate negative correlation (-0.302) between the Consumer Price Index (CPI) and the Unemployment rate.
 
 # 3. Business Intelligence Dashboard (Power BI)
 * Engineered a decoupled, dedicated `DateTable` for dynamic time-intelligence filtering.

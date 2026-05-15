@@ -1,7 +1,7 @@
 # Walmart Financial,Economical & Sales Anlaysis Performance
 
 # Project Overview
-An end-to-end data analytics project investigating how macroeconomic indicators (Unemployment, CPI, Fuel Prices) impact Walmart’s weekly store sales across 45 locations in the United States.
+An end-to-end data analytics project investigating how macroeconomic indicators (Unemployment, CPI, Fuel Prices) impact Walmart’s weekly store sales across 45 locations in the United States. The analysis period is from 2010-2012.
 
 # Tech Stack
 * MS SQL Server: Data extraction, transformation, and creation of standardized Views.
